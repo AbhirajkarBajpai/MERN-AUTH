@@ -1,0 +1,89 @@
+/* Header Component Styles */
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    padding: 10px 20px;
+    color: white;
+  }
+  
+  .left h1 {
+    margin: 0;
+    font-size: 1.5rem;
+  }
+  
+  .right ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  .right li {
+    margin: 0 10px;
+    position: relative;
+  }
+  
+  .right a {
+    text-decoration: none;
+    color: white;
+    transition: color 0.3s;
+  }
+  
+  .right a:hover {
+    color: #f39c12; /* Change color on hover */
+  }
+  
+  /* Navigation dropdown styles */
+  
+  .right ul ul {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #333;
+    border-radius: 4px;
+    padding: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .right li:hover ul {
+    display: block;
+  }
+  
+  .right ul ul li {
+    width: 100%;
+    padding: 5px 0;
+  }
+  
+  .right ul ul a {
+    color: white;
+    transition: none; /* Remove color transition for dropdown items */
+  }
+  
+  .right ul ul a:hover {
+    color: white; /* Keep the color consistent on hover */
+  }
+
+  
+  /* Tabs Component Styles */
+
+.tabs {
+    display: flex;
+  }
+  
+  .tab {
+    padding: 10px 20px;
+    cursor: pointer;
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+    border-radius: 4px 4px 0 0;
+  }
+  
+  .tab.active {
+    background-color: white;
+    border-bottom: none;
+  }
+  
