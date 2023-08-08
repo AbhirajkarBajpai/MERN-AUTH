@@ -14,7 +14,7 @@ To get started with the Make-Notes Webapp, you'll need to have Node.js and npm i
 To deploy this project run
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/make-notes-webapp.git
+git clone https://github.com/YOUR_USERNAME/MERN-AUTH.git
 cd make-notes-webapp
 npm install
 ```
@@ -26,12 +26,7 @@ npm start
 ## host
 The application should be available at http://localhost:3000 in your browser.
 
-## What's Next
-In the future, we plan to add a login feature to the Make-Notes Webapp. This will allow users to securely store and access their notes by requiring authentication before they can access the application.
 
-We are currently working on implementing a backend API that can handle user authentication, and we plan to update the frontend of the application to include a login form that allows users to enter their credentials.
-
-If you have any suggestions or feedback on how we can improve the Make-Notes Webapp, please don't hesitate to contact us or open an issue on our GitHub repository. We are always looking for ways to make our application better and more user-friendly.
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
