@@ -11,7 +11,7 @@ app.use(express.json());
 app.use("/api", router);
 mongoose
   .connect(
-    `mongodb+srv://21it3001:${process.env.MONGODB_PASSWORORD}@userdetails.c9r6qow.mongodb.net/`
+    `mongodb+srv://<email>:${process.env.MONGODB_PASSWORORD}@userdetails.<otherdetails>.mongodb.net/`  // you have to modify this section
   )
   .then(() => {
     app.listen(5000);
