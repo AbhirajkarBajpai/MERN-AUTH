@@ -45,5 +45,5 @@ Login Page:
 ![Login Page](https://raw.githubusercontent.com/AbhirajkarBajpai/MERN-AUTH/main/loginPage.png)
 
 User Page:
-![User Page](https://raw.githubusercontent.com/AbhirajkarBajpai/MERN-AUTH/main/userPage.png)
+![User Page](https://raw.githubusercontent.com/AbhirajkarBajpai/MERN-AUTH/main/welcomePage.png)
 
