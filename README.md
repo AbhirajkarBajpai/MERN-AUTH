@@ -41,16 +41,16 @@ https://abhirajkarbajpai-make-notes.netlify.app/
 ## Samples
 starting
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/AbhirajkarBajpai/MERN-AUTH/blob/main/loginPage.png))
 
 
 signup page
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/AbhirajkarBajpai/MERN-AUTH/blob/main/loginPage.png))
 
 
 Login page
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/AbhirajkarBajpai/MERN-AUTH/blob/main/loginPage.png))
 
 user - page
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/AbhirajkarBajpai/MERN-AUTH/blob/main/loginPage.png)https://github.com/AbhirajkarBajpai/MERN-AUTH/blob/main/loginPage.png)
 
