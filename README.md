@@ -36,7 +36,7 @@ The application should be available at http://localhost:3000 in your browser.
 ## Samples
 Starting:
 
-![Login Page](https://raw.githubusercontent.com/AbhirajkarBajpai/MERN-AUTH/main/loginPage.png)
+![Login Page](https://raw.githubusercontent.com/AbhirajkarBajpai/MERN-AUTH/main/startingPage.png)
 
 Signup Page:
 ![Signup Page](https://raw.githubusercontent.com/AbhirajkarBajpai/MERN-AUTH/main/signupPage.png)
