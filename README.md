@@ -34,18 +34,16 @@ The application should be available at http://localhost:3000 in your browser.
 
 
 ## Samples
-starting
+Starting:
 
-!((https://github.com/AbhirajkarBajpai/MERN-AUTH/blob/main/loginPage.png))
+![Login Page](https://raw.githubusercontent.com/AbhirajkarBajpai/MERN-AUTH/main/loginPage.png)
 
+Signup Page:
+![Signup Page](https://raw.githubusercontent.com/AbhirajkarBajpai/MERN-AUTH/main/signupPage.png)
 
-signup page
-![App Screenshot]((https://github.com/AbhirajkarBajpai/MERN-AUTH/blob/main/loginPage.png))
+Login Page:
+![Login Page](https://raw.githubusercontent.com/AbhirajkarBajpai/MERN-AUTH/main/loginPage.png)
 
-
-Login page
-![App Screenshot]((https://github.com/AbhirajkarBajpai/MERN-AUTH/blob/main/loginPage.png))
-
-user - page
-![App Screenshot]((https://github.com/AbhirajkarBajpai/MERN-AUTH/blob/main/loginPage.png)https://github.com/AbhirajkarBajpai/MERN-AUTH/blob/main/loginPage.png)
+User Page:
+![User Page](https://raw.githubusercontent.com/AbhirajkarBajpai/MERN-AUTH/main/userPage.png)
 
