@@ -33,15 +33,10 @@ The application should be available at http://localhost:3000 in your browser.
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 
-## Demo
-
-https://abhirajkarbajpai-make-notes.netlify.app/
-
-
 ## Samples
 starting
 
-![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/AbhirajkarBajpai/MERN-AUTH/blob/main/loginPage.png))
+!([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/AbhirajkarBajpai/MERN-AUTH/blob/main/loginPage.png))
 
 
 signup page
